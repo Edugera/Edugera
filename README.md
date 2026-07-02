@@ -12,9 +12,9 @@ My focus is building tools that make energy contracts, guarantees, risk controls
   <a href="https://www.linkedin.com/in/eduardo-ferreira-mercado-livre/">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Ferreira-0a66c2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:edugera47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edugera47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -106,10 +106,6 @@ I am currently focused on:
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Edugera&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edugera&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edugera&theme=tokyo-night&hide_border=true" />
