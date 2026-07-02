@@ -28,7 +28,7 @@ Today, I am building **GridLedger**, an infrastructure initiative for auditable 
 
 I also teach Mathematics and create educational content connecting math, energy markets, finance, data and technology.
 
-> Minha tese: mercados complexos precisam de clareza operacional, dados confiaveis e infraestrutura auditavel.
+> > My thesis: complex markets, especially energy markets, need operational clarity, reliable data and auditable infrastructure.
 
 ---
 
