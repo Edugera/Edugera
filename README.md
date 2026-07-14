@@ -89,6 +89,7 @@ I also teach Mathematics and create educational content connecting math, energy 
 | [risk_analysis_dashboard](https://github.com/Edugera/risk_analysis_dashboard) | Streamlit dashboard for risk analysis | Python, Streamlit |
 | [streamlit-2025](https://github.com/Edugera/streamlit-2025) | Streamlit studies and applied dashboards | Python |
 | [edugera.github.io](https://github.com/Edugera/edugera.github.io) | Personal portfolio and GitHub Pages website | HTML, Portfolio |
+| [edugera.github.io](https://github.com/Edugera/gridledger-stellar-study.git) | Structured learning repository for Rust, Stellar, Soroban, smart contract security and GridLedger research.| Rust, Soroban |
 
 ---
 
